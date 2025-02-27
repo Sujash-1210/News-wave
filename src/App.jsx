@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Header from "./Components/Header";
+import Header from "./components/Header";
 //import NewsBoard from "./Components/NewsBoard";
-import Footer from "./Components/Footer";
+import Footer from "./components/Footer";
 import NewsBoard from "./components/NewsBoard";
 import { Route, Routes } from "react-router-dom";
 import Contact from "./components/Contact";
